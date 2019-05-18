@@ -1,0 +1,21 @@
+{
+    "workbench.iconTheme": "material-icon-theme",
+    "window.titleBarStyle": "custom",
+    "gitlens.codeLens.authors.enabled": false,
+    "gitlens.codeLens.enabled": false,
+    "explorer.confirmDelete": false,
+    "workbench.colorTheme": "Electron",
+    "workbench.colorCustomizations": {
+        "editor.background": "#13141d",
+        "titleBar.activeBackground": "#13141d",
+        "terminal.background": "#13141d",
+        "sideBar.background": "#111118",
+        "tab.activeBackground": "#181a25",
+        "tab.inactiveBackground": "#1d1f2c"
+    },
+    "explorer.confirmDragAndDrop": false,
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact",
+        "django-html": "html"
+    }
+}
